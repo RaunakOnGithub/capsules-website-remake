@@ -1,4 +1,3 @@
-# capsules-website-remake
 
 # Capsules® - Advanced Animation Website Remake
 
@@ -83,5 +82,4 @@ It was built with a lot of love and (many) late nights of debugging!
 Hey, I'm Raunak! A web developer and Google Student Ambassador. Let's connect!
 
 * **GitHub:** [@RaunakOnGithub](https://github.com/RaunakOnGithub)
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url/)
-* **Portfolio:** [Your Portfolio Website](https://your-portfolio-url.com/)
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/raunakchaurasiya/)
