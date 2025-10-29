@@ -1,15 +1,9 @@
 
 # Capsules® - Advanced Animation Website Remake
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-View%20Demo-brightgreen?style=for-the-badge&logo=vercel)](https://your-live-site-link.com)
+[![Live Site](https://img.shields.io/badge/Live%20Site-View%20Demo-brightgreen?style=for-the-badge&logo=vercel)](https://capsules-website-remake.vercel.app/)
 
 This is a high-fidelity remake of the **Capsules® website**, built from scratch to explore and master advanced front-end animations. This project was a month-long labor of love, focusing on replicating complex scroll-based and interactive effects using the GSAP library.
-
-## 🚀 Live Demo
-
-[**View the live site here**](https://your-live-site-link.com)
-
-*(Don't forget to replace the link above with your actual live site URL!)*
 
 ---
 
