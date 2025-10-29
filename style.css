@@ -989,4 +989,66 @@ section.sticky {
     font-size: 4rem; /* Was 6.1rem */
     line-height: 0.9; 
   }
+
+}
+/* === FOR VERY SMALL SCREENS (BELOW 380px) === */
+@media (max-width: 380px) {
+
+  /* --- 1. General Padding --- */
+  /* Sections ka side padding kam kar rahe hain */
+  .page2,
+  .page3,
+  .activities-intro,
+  .site-footer {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  /* --- 2. Hero Section --- */
+  .header h1 {
+    font-size: 2.8rem; /* 3.2rem se chota */
+  }
+  .hero-footer h3 {
+    font-size: 1.1rem; /* 1.25rem se chota */
+  }
+
+  /* --- 3. Page 2 Text --- */
+  .page2 h4 {
+    font-size: 28px; /* 32px se chota */
+    line-height: 2rem; /* Line spacing bhi adjust ki */
+  }
+
+  /* --- 4. Page 3 & Activities Titles --- */
+  /* Yeh 'Choose the one' waale titles hain */
+  .hideBox h2 {
+    font-size: 3rem; /* 3.5rem se chota */
+    line-height: 2.8rem;
+  }
+  
+  /* Page 3 ke chote image boxes */
+  .page3 .left .imgBox {
+    width: 100%; /* Ab yeh full width lenge aur ek ke neeche ek stack honge */
+    height: 15rem; /* Height ko thoda control kiya */
+  }
+
+  /* --- 5. Card Titles --- */
+  .card-title h1 {
+    font-size: 1.8rem; /* 2rem se chota */
+  }
+
+  /* --- 6. Page 5 Title --- */
+  .page5-content h1 {
+    font-size: 1.75rem; /* 2rem se chota */
+  }
+
+  /* --- 7. Footer Title --- */
+  .line-footer {
+    font-size: 3.2rem; /* 4rem se chota */
+  }
+
+  /* --- 8. Footer Links --- */
+  .footer-nav a {
+    font-size: 1.2rem; /* 1.5rem se chota */
+  }
+
 }
