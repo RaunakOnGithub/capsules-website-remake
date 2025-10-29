@@ -7,16 +7,13 @@ This is a high-fidelity remake of the **Capsules® website**, built from scratch
 
 ---
 
-## 📸 Preview & Screenshots
+## 📸 Screenshots
 
-Here is a quick demo of the main animations in action. (I strongly recommend you replace this image with a GIF of your site!)
-
-![Capsules Demo GIF](https://your-link-to-a-demo-gif.gif)
-
-*(To make a GIF, you can use a free tool like [ScreenToGif](https://www.screentogif.com/))*
-
-![Screenshot of the Hero Section](https://your-link-to-a-screenshot.png)
-![Screenshot of the Card Stack](https://your-link-to-a-screenshot.png)
+[![image.png](https://i.postimg.cc/J01zm1ym/image.png)](https://postimg.cc/N9zckv7P)
+[![image.png](https://i.postimg.cc/GtV3DvM7/image.png)](https://postimg.cc/T5jXM5vg)
+[![image.png](https://i.postimg.cc/6pLw6sX3/image.png)](https://postimg.cc/tsT8DM7Q)
+[![image.png](https://i.postimg.cc/2595mpQB/image.png)](https://postimg.cc/cKYWMb5s)
+[![image.png](https://i.postimg.cc/yNjZZrF6/image.png)](https://postimg.cc/bGGrXgC4)
 
 ---
 
